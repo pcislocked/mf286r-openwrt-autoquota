@@ -1,2 +1,5 @@
 # mf286r-openwrt-autoquota
-A simple script querying LTE data quota via sms-tool and returning value periodically via Telegram
+A simple script querying LTE data quota via sms-tool and returning value periodically via telegram so i can buy more if i need.
+
+
+abi telekoma sms atıp ne kadar int kaldı diye soruyo işte. osnra bana atıyo. normalde 5gb altında kalınca ek 10gb direkt alıyodu MOBIL EK 10GB diye mesaj atıp. biraz kontrolden çıkınca o kısmı sildim. 
