@@ -1,4 +1,4 @@
-# mf286r-openwrt-autoquota
+# mf286r-openwrt-kotasiken
 A simple script querying LTE data quota via sms-tool and returning value periodically via telegram so i can buy more if i need.
 
 
